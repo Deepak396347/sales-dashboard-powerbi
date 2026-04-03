@@ -21,7 +21,7 @@ This project is a Power BI dashboard built to analyze sales performance across r
 - Data Visualization
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard-preview.png)
 
 ## 💡 Insights
 - West region has highest sales performance
